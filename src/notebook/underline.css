@@ -1,0 +1,8 @@
+.underline {
+    text-decoration: underline;
+}
+
+.page {
+    display: inline;
+    /*flex-direction: row;*/
+}

@@ -1,0 +1,9 @@
+.hide {
+    /*visibility: hidden;*/
+    opacity: 0;
+}
+
+.underline {
+    text-decoration: underline;
+    /*border-bottom:3px double;*/
+}
